@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(61, 61, 99);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif, serif;
+}
+
+.scaled-image {
+    height: 300px;
+    width: auto;
+}
+
+.link {
+    font-weight: bold;
+    color: aqua;
+}
